@@ -34,9 +34,11 @@ class App extends Component {
       <div className="App">
         <Navigation title="Tasks" count={this.state.todo.length} />
 
-        <div className="container">
-          <TodoForm onAddTodo={this.handleAddTodo} />
-          <div className="row mt-4">{todos}</div>
+        <div className="container-fluid">
+          <div className="row mt-4">
+            <TodoForm onAddTodo={this.handleAddTodo} />
+            {todos}
+          </div>
         </div>
       </div>
     );
