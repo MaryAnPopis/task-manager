@@ -1,0 +1,34 @@
+{
+  "todo": [
+    {
+      "title": "Task 1",
+      "responsible": "Mariam",
+      "description": "lorem ipsim",
+      "priority": "low"
+    },
+    {
+      "title": "Task 2",
+      "responsible": "Raul",
+      "description": "lorem ipsim",
+      "priority": "medium"
+    },
+    {
+      "title": "Task 3",
+      "responsible": "Nano",
+      "description": "lorem ipsim",
+      "priority": "high"
+    },
+    {
+      "title": "Task 4",
+      "responsible": "Mario",
+      "description": "lorem ipsim",
+      "priority": "low"
+    },
+    {
+      "title": "Task 5",
+      "responsible": "Carlos",
+      "description": "lorem ipsim",
+      "priority": "low"
+    }
+  ]
+}
